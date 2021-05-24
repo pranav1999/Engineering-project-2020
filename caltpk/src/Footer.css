@@ -1,0 +1,16 @@
+.footer{
+    margin-top: 30px;
+    background-color: #131921;
+}
+
+.footer__top{
+    height: 250px;
+}
+
+.footer__bottom > p{
+    border-top: 1px solid white;
+    max-width: 80%;
+    text-align: center;
+    color: white;
+    margin: auto;
+}

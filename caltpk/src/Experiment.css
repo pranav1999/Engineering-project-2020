@@ -1,0 +1,51 @@
+.experiment{
+    background-color: white;
+    border-radius: 10px;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.experiment > h3{
+    text-align: center;
+}
+
+.experiment__imgdescription{
+    display: flex;
+    justify-content: flex-start;
+    margin: 5px auto;
+}
+
+.experiment__imgdescription > img{
+    height: 100%;
+    width: 100px;
+    margin: auto 5px;
+    border-radius: 5px;
+}
+
+.experiment__imgdescription > p{
+    max-width: 70%;
+    font-size: 1.15em;
+}
+
+.experiment__action{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.action{
+    text-align: center;
+    margin: 8px 0;
+    border: 1px solid black;
+    background-color: #131921;
+    color: white;
+    border-radius: 4px;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.action:hover{
+    background-color: white;
+    color: black;
+}
+
