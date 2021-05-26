@@ -1,6 +1,17 @@
-a{
+ a{
   text-decoration: none;
+  color: white;
+} 
+
+a:link {
+  color: white;
 }
+
+/* visited link */
+a:visited {
+  color: white;
+}
+
 .header{
   height: 60px;
   background-color: #131921;
@@ -21,7 +32,7 @@ a{
 .header__line{
   display: inline-block;
   color: white;
-  margin-left: 70px;
+  margin-left: 100px;
 }
 
 .header__nav{
@@ -41,6 +52,3 @@ a{
   border-radius: 5px;
   padding: 5px;
 }
-
-
-

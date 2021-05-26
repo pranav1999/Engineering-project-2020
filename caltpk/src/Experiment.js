@@ -11,7 +11,7 @@ function Experiment({ title, image, description,videolink,explink,theory }) {
         <div className="experiment__action">
            <a href={theory} target="_blank" rel="noreferrer"><p className="action">Theory</p></a>
            <a href={videolink} target="_blank" rel="noreferrer"><p className="action">Video</p></a>
-           <a href={explink} target="_blank" rel="noreferrer"><p className="action">Experiment</p></a> 
+           <a href={explink} target="_blank" rel="noreferrer"><p className="action">Simulation</p></a> 
       </div>
       </div>
     </div>

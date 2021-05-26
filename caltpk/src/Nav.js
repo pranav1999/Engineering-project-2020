@@ -6,11 +6,7 @@ function Nav() {
   return (
     <div className="header">
       <Link to="/">
-        <img
-          className="header__logo"
-          src="../images/CALTPK.png"
-          alt="logo"
-        />
+        <img className="header__logo" src="../images/CALTPK.png" alt="logo" />
       </Link>
 
       <h2 className="header__line">
@@ -18,9 +14,9 @@ function Nav() {
       </h2>
 
       <div className="header__nav">
-        <p>Experiments</p>
-        <p>Augmented reality</p>
-        {/* <p>link</p> */}
+        <Link to="/createExperiment">
+          <p>Create Experiment</p>
+        </Link>
       </div>
     </div>
   );

@@ -7,7 +7,7 @@ function Home() {
     <div className="home">
       <div className="home__header">
         <h1 className="heading__line">
-          Learn experiments virutally with augmented reality.
+          Learn experiments virutally with online simulations.
         </h1>
       </div>
 

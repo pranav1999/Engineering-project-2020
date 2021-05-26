@@ -23,6 +23,9 @@ function App() {
           <Route path="/experimentlist">
             <Experiments />
           </Route>
+          <Route path="/createExperiment">
+            <h1>createExperiment</h1>
+          </Route>
           <Route path="/">
             <Home />
           </Route>
