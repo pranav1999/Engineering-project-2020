@@ -8,10 +8,10 @@ function Footer() {
   return (
     <div className="footer">
       <div className="footer__top">
-        <p></p>
+        <div className="footer__box"></div>
       </div>
       <div className="footer__bottom">
-        <p>CALTPK © {year}  All Rights Reserved</p>
+        <p className="copyright">CALTPK © {year}  All Rights Reserved</p>
       </div>
     </div>
   );

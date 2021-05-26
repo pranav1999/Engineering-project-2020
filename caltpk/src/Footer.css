@@ -1,16 +1,28 @@
 .footer{
     margin-top: 30px;
     background-color: #131921;
+    padding: 10px auto;
 }
 
 .footer__top{
-    height: 250px;
+    display: flex;
+    justify-content: space-evenly;
 }
 
-.footer__bottom > p{
+.footer__box{
+    height: 200px;
+    width: 20%;
+    margin-top: 10px;
+}
+
+
+
+.copyright{
     border-top: 1px solid white;
     max-width: 80%;
     text-align: center;
     color: white;
     margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }

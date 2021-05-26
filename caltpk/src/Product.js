@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./Product.css";
 
-function Product({ id, title, price, image, rating }) {
+function Product({ title, image, page }) {
   return (
     <div className="product">
       <div className="product__info">
@@ -11,7 +11,7 @@ function Product({ id, title, price, image, rating }) {
 
       <img src={image} alt="" />
 
-      <Link to="/experimentlist">
+      <Link to={page}>
         <p className="button">Experiments</p>
       </Link>
     </div>

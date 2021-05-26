@@ -19,6 +19,25 @@
     border-radius: 5px;
 }
 
+.classtag:hover{
+    width: 120px;
+    height: 200px;
+    border-radius: 5px;
+    border-bottom: 8px solid rgb(92, 190, 247);
+    padding-bottom: 4px;
+    background-color: white;
+    
+}
+
+.classtagactive{
+    width: 120px;
+    height: 200px;
+    border-radius: 5px;
+    border-bottom: 8px solid rgb(92, 190, 247);
+    padding-bottom: 4px;
+    background-color: white;
+}
+
 .experiments__selectExperiment > h1 {
     text-align: center;
 }

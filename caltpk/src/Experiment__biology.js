@@ -2,7 +2,7 @@ import React from "react";
 import "./Experiments.css";
 import Experiment from "./Experiment.js";
 import {useState} from "react";
-import {class9,class10,class11,class12} from "./SubPhysics.js";
+import {class9,class10,class11,class12} from "./SubBiology";
 
 
 
@@ -14,7 +14,6 @@ function createExperiment(exp){
         description = {exp.description}
         videolink = {exp.videolink}
         explink = {exp.explink}
-        theory={exp.theory}
      />
 }
 
@@ -28,7 +27,7 @@ function Experiments(){
 
     return(
         <div className="experiments">
-            <h1 className="pageheading">PHYSICS</h1>
+            <h1 className="pageheading">BIOLOGY</h1>
             <div className="experiments__selectClass">
                 <img onClick={()=>{
                     setactive("class9");
