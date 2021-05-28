@@ -40,7 +40,7 @@ export const class10 = [
         description:"Water is used for washing along with the soap. The effectiveness and cleansing action of soap depends on the type of water.Soft water: The type of water which produces lather with the soap is called soft water. Washing of clothes is very effective and easy in soft water.Hard water: The type of water which does not produce lather with the soap is called hard water. It contains dissolved salts in it. The soap forms scum with hard water and not fit for laundry purpose.",
         videolink:"https://www.youtube.com/watch?v=oVAQkOf7REU",
         explink:"",
-        theory:"https://www.cbsetuts.com/ncert-class-10-science-lab-manual-cleaning-capacity-soap-hard-soft-water/"
+        theory:"https://www.selfstudys.com/uploads/pdf/kGiNiJaxBF9eUdoyIDei.pdf"
     },
     {
         id:2,
@@ -49,7 +49,7 @@ export const class10 = [
         description:"Acetic acid is a member of carboxylic acid group and it’s IUPAC name is ethanoic acid.Acidic property of CH3COOH is due to its ability to produce hydrogen ions (H+) in water.The members of the homologous series of the carboxylic acids are found in fruits and in vinegar.It belongs to a functional group -COOH. Acetic acid is a monocarboxylic acid as it contains only one —COOH group.The oxidation of ethanol to ethanoic acid turns alcoholic drinks sour when exposed to air.Ethanol + Oxygen —> Ethanoic acid + WaterThis reaction occurs if wine, beer or cider is left out open to the air, it eventually becomes vinegar, not fit for drinking but it is very nice in salad dressing.Acetic acid is a weak acid and it ionizes only partially.Acetic acid is completely miscible in water to form homogeneous solution.In the chemical industry, ethanoic acid can be manufactured on a large scale by oxidising the alcohol named ethanol.",
         videolink:"https://www.youtube.com/watch?v=Nce1xOIvRQc",
         explink:"",
-        theory:"https://www.cbsetuts.com/ncert-class-10-science-lab-manual-properties-of-acetic-acid/"
+        theory:"https://www.selfstudys.com/uploads/pdf/uvvv0p9ptolbXubiYq1b.pdf"
     },
     {
         id:3,
@@ -58,7 +58,7 @@ export const class10 = [
         description:"Traditional soap is a product obtained by the hydrolysis of fats from animals and vegetable oils from plants.Soaps are molecules of sodium or potassium salts of long chain carboxylic acids.It has tadpole shape with long carboxylic acid chain, non-ionic (hydrocarbon) and ions attached to it like Na+.The ionic-end of soap dissolves in water while the carbon chain dissolves in oil.Soaps containing sodium salts are formed by heating fat (i.e., glyceryl ester of fatty acid) with aqueous sodium hydroxide solution. This reaction is known as saponification.In this reaction, esters of fatty acids are hydrolysed and the soap obtained remain in colloidal form.It is precipitated from the solution by adding NaCl.The stearic acid molecule C17H35COOH or CH3(CH2)16COOH is a typical long chain fatty acid obtained from naturally occurring plant oils and used to make traditional soaps.The salt sodium stearate C17H35COO–Na+, formed when stearic acid is neutralised with sodium hydroxide is a typical soap molecule.Only sodium and potassium soaps are soluble in water.Sometimes fillers are added to the soap to increase their value. For e.g., medicated soaps contain substances of medicinal value. Laundry soaps contain sodium rosinate for better lather formation. Perfumes, glycerol, etc. are also added.Generally, potassium soaps are soft to the skin than sodium soaps. These can be prepared by using KOH instead of NaOH.",
         videolink:"https://youtu.be/Tu_sWoHULtY",
         explink:"",
-        theory:"https://www.cbsetuts.com/ncert-class-10-science-lab-manual-soap-preparation/"
+        theory:"https://laney.edu/cheli-fossum/wp-content/uploads/sites/210/2012/01/13-Saponification.pdf"
     }
 ]
 
@@ -70,16 +70,16 @@ export const class11 = [
         description:"The boiling point of a liquid may be defined as the temperature at which the vapour pressure of the liquid is equal to the atmospheric pressure exerted upon the liquid surface.The boiling point of the liquid depends upon the pressure exerted upon the liquid surface. Since atmospheric pressure is different at different place, therefore a liquid has different boiling points at different places. For the sake of comparison we use normal boiling points. The normal boiling point of a liquid may be defined as the temperature at which vapour pressure of the liquid is equal to one standard atmospheric pressure (760 mm).The boiling point of a liquid increases if non-volatile impurities are present in it.",
         videolink:"https://www.youtube.com/watch?v=GxyfS1v77lU",
         explink:"",
-        theory:"https://www.learncbse.in/determination-boiling-point/"
+        theory:"http://davjalandhar.com/dbt/chemistry/SOP%20LabManuals/B.Sc.%20SEM%20I.pdf"
     },
     {
         id:2,
         title:"Experiments Based On pH Change",
-        img:"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FFUN-LEARN-Litmus-Strips-Indicators%2Fdp%2FB01N23CET2&psig=AOvVaw3eNq-GlOe2eJU1MfPL3Xuy&ust=1622135136745000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJC3iLfq5_ACFQAAAAAdAAAAABAI",
+        img:"https://i.pinimg.com/564x/be/29/76/be29764da2fa111a2a5b54f1a2f67069.jpg",
         description:"In order to express the hydronium ion (H3O+) concentration in a solution P.L. Sorensen (1909) devised a logarithmic scale. This scale is known as pH scale. The pH of a solution is defined as the negative logarithm of hydronium ion concentration in moles per litre.",
         videolink:"https://www.youtube.com/watch?v=-lbh5_1xxtI",
         explink:"",
-        theory:"https://www.learncbse.in/experiments-based-ph-change/"
+        theory:"https://www.cerritos.edu/chemistry/_includes/docs/Chem_111/Lab/Exp%2013%20pH%20AND%20ITS%20%20MEASUREMENTS%20Sp07.pdf"
     },
     {
         id:3,
@@ -88,7 +88,7 @@ export const class11 = [
         description:"When a system in equilibrium is suddenly disturbed, it will respond in some way until equilibrium is re-established.where [Fe(SCN)]2+, [Fe3+] and [SCN–] are the equilibrium concentrations of the respective species while K is the equilibrium constant. For a particular reaction the value of K is constant at a particular temperature. When concentration of any species involved in the equilibrium is disturbed, the concentration quotient,(a) Effect of increasing concentration of ferric ions. When ferric chloride solution is added to the red solution containing ferric ions, thiocyanate ions and ferric-thiocyanate complex, concentration of ferric ions increases and therefore, the concentration of thiocyanate ions should decrease or that of [Fe(SCN)]2+ should increase so as to keep concentration quotient equal to equilibrium constant at a given temperature. Therefore, increase in concentration of ferric ions results in more of thiocyanate ions combining with ferric ions to give more of [Fe(SCN)]2+ complex and therefore, the colour intensity of red-solution increases. Thus, increase in concentration of Fe3+ ions shifts the above equilibrium in the forward direction.(b) Effect of increasing concentration of thiocyanate ions. Since thiocyanate ion is in the denominator in the equilibrium law equation, the addition of more and more of thiocyanate results in more of ferric ions reacting with thiocyanate ions to give more of [Fe(SCN)]2+ complex. Hence, the colour intensity of red-solution increases. Thus, increase in the concentration of SCN– ions shifts the above equilibrium in the forward direction.(c) Effect of increasing the concentration of potassium ions. When potassium chloride is added to the red solution, concentration of K+ ions increases. It affects the equilibrium between potassium and thiocyanate ions.",
         videolink:"https://youtu.be/camAHUXA8gs",
         explink:"",
-        theory:"https://www.learncbse.in/study-shift-equilibrium-ferric-ions-thiocyanate-ions/"
+        theory:"https://www.unf.edu/~michael.lufaso/chem2046/2046chapter15.pdf"
     }
 
 ]
@@ -101,7 +101,7 @@ export const class12 = [
         description:"Starch forms a lyophilic sol when water is used as the dispersion medium. The formation of sol is accelerated by heating. The starch sol can be prepared by heating starch and water at about 100°C. It is quite stable and is not affected by the presence of any electrolytic impurity.",
         videolink:"https://youtu.be/lT-K-XvIdeI",
         explink:"",
-        theory:"https://www.learncbse.in/to-prepare-colloidal-solution-sol-of-starch/"
+        theory:"http://pue.kar.nic.in/PUE/PDF_files/recogn/ipu_IIqb/34_ch5.pdf"
     },
     {
         id:2,
@@ -110,16 +110,16 @@ export const class12 = [
         description:"According to the law of mass action, rate of a chemical reaction is directly proportional to the product of the molar concentrations of the reactants. In other words, the rate of reaction increases with the increase in the concentration of the reactants. The effect of concentration of reactants on rate of a reaction can be studied easily by the reaction between sodium thiosulphate and  hydrochloric acid.Na2S203 + 2HCl ——–> S(s) + 2NaCl(aq) + SO2(g) + H2O(l).The insoluble sulphur, formed during the reaction, gives a milky appearance and makes the solution opaque. Therefore, rate of reaction can be studied by measuring the time taken to produce enough sulphur to make some mark invisible on a paper kept under the conical flask in which the reaction is carried out.",
         videolink:"https://youtu.be/dGfJSuJW8F8",
         explink:"",
-        theory:"https://www.learncbse.in/to-study-the-effect-of-concentration-on-the-rate-of-reaction-between-sodium-thiosulphate-and-hydrochloric-acid/"
+        theory:"https://www.atilim.edu.tr/shares/chem/files/CEAC%20104(4).pdf"
     },
     {
         id:3,
         title:"Thermochemistry",
-        img:"https://images.squarespace-cdn.com/content/v1/53e2d95be4b02d879be812d8/1426263989419-9SUFYZQNNLWR0CVUYKOT/ke17ZwdGBToddI8pDm48kK7ZveHm8pdg6pR1a4N_eTlZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEP3MwU0KrqINgz5t1HlAV-YeUN3Jr-LO9jY1nwzkfdWl50gd2D5EdtNM4Q3D6aH4U/colored+glassware.jpg?format=300w",
+        img:"https://c2.staticflickr.com/6/5521/30978939790_b3a11330a8_o.png",
         description:"In this experiment, the enthalpy of dissolution is measured by the use of calorimetric techniques. A known volume of the water is taken in a polythene bottle as shown in Fig. Its temperature is noted and then known weight of the solute is added to it. The solution is stirred gently and change in temperature is recorded. From the change in temperature, heat absorbed or evolved can be calculated. In this experiment one mole of solute is dissolved per 400 moles of water. For maintaining this ratio 7.0 g of CuS04.5H20 is dissolved in 200 mL of water.",
         videolink:"https://youtu.be/RmGBLXH1cvY",
         explink:"",
-        theory:"https://www.learncbse.in/determine-enthalpy-dissolution-given-solid-copper-sulphate-water-room-temperature/"
+        theory:"http://courseware.cutm.ac.in/wp-content/uploads/2020/06/thermochemistry-experiment.pdf"
     }
 
 ]
