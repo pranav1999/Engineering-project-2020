@@ -8,7 +8,7 @@ export const class9 = [
         img:"https://media.istockphoto.com/photos/archimede-italian-stamp-picture-id177513676?s=612x612",
         description:"Archimedes’ principle, physical law of buoyancy, discovered by the ancient Greek mathematician and inventor Archimedes, stating that any body completely or partially submerged in a fluid (gas or liquid) at rest is acted upon by an upward, or buoyant, force, the magnitude of which is equal to the weight of the fluid displaced by the body.",
         videolink:"https://www.youtube.com/watch?v=_p-hwElkrlk",
-        explink:"https://simmer.io/@Buoyancy/buoyancy",
+        explink:"https://simmer.io/@Buoyancy/buoyancy-game-modified",
         theory:"https://lakshya3119.github.io/Phy1/All-3%20Experiment-HTML%20-fILE-CLASS-9-PHYSICS/All-3%20Experiment-HTML%20-fILE-CLASS-9-PHYSICS/index.html"
     },
     {
