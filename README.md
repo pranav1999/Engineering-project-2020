@@ -1,2 +1,2 @@
 # Engineering-project-2020
-Engineering project 2020 VIT BHOPAL
+Engineering Project 2020 VIT BHOPAL
