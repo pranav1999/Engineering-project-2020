@@ -22,7 +22,7 @@ function Home() {
          <Product
           title="CHEMISTRY"
           image={
-            "https://media.istockphoto.com/photos/laboratory-research-picture-id496442732?s=612x612"
+            "https://images.pexels.com/photos/8666435/pexels-photo-8666435.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
           }
           page="/experimentlist_chemistry"
         />
